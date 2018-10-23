@@ -1,6 +1,6 @@
 # got_flutter_app
 
-A new Flutter application.
+This app is inspired by GAME OF THRONES.
 
 ## Getting Started
 
